@@ -91,16 +91,9 @@
 <p align="left">
   <img 
     align="left" 
-    alt="GitHub Stats" 
+    alt="GitHub Streak" 
     height="180" 
-    style="padding-right: 10px;" 
-    src="https://grs.vercel.app/api?username=Adrianbss&show_icons=true&locale=pt-br&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
-  />
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="180" 
-    src="https://grs.vercel.app/api/top-langs/?username=Adrianbss&layout=compact&custom_title=Stack&langs_count=8&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Adrianbss&theme=dark&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideTitle=ffffff&currStreakLabel=ffffff"
   />
 </p>
 
