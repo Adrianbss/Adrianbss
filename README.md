@@ -1,16 +1,17 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img align="right" alt="Killua" height="180px" src="./escr/src.gif">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
 #
 
-Me chamo Adrian Breno, tenho 19 anos e sou natural de Maceió. Atualmente curso Ciências da computação na UNINASSAU.
- 
-#
+<img align="right" alt="Killua Zoldyck" height="180px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnAxMm8wNm85MmZvdmI4OHcyNjlmdzVuM3hyb2wyczNna2QzY3I4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif">
 
-<img align="right" alt="" height="190px" src="./src/src.gif">
+Me chamo Adrian Breno, tenho 19 anos e sou natural de Maceió. Atualmente curso Ciências da computação na UNINASSAU.
+
+<br clear="both"/>
+#
 
 <h3 align="left">Connect with me!</h3>
 
