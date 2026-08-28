@@ -10,18 +10,18 @@ Me chamo Adrian Breno, tenho 19 anos e sou natural de Maceió. Atualmente curso 
 
 <br/>
 
+<!-- GIF posicionado na direita englobando o Connect e o My Stack -->
+<img align="right" alt="Killua Zoldyck" width="260px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnAxMm8wNm85MmZvdmI4OHcyNjlmdzVuM3hyb2wyczNna2QzY3I4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif">
+
 <h3 align="left">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)](mailto:adrianbreno23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-breno-3a405a371?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
 
-<br/>
+<br/><br/>
 
 <h3 align="left">My Stack ~</h3>
-
-<!-- GIF do Killua alinhado à direita na seção das Stacks -->
-<img align="right" alt="Killua Zoldyck" height="150px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnAxMm8wNm85MmZvdmI4OHcyNjlmdzVuM3hyb2wyczNna2QzY3I4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/frSfC5NcmyF7q/giphy.gif">
 
 <img 
     align="left" 
