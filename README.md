@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src=<img align="right" alt="Killua Zoldyck" height="180px" esrc="./src/killua.gif">>
+    <img align="right" alt="Killua" height="180px" src="./escr/src.gif">
   </a>
 </div>
 
