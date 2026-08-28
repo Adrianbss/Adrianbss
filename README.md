@@ -10,8 +10,7 @@ Me chamo Adrian Breno, tenho 19 anos e sou natural de Maceió. Atualmente curso 
 
 <br/>
 
-<!-- GIF posicionado na direita englobando o Connect e o My Stack -->
-<img align="right" alt="Killua Zoldyck" width="260px" src=https://br.pinterest.com/pin/1118863101180544343/>
+<img align="right" alt="Saitama GIF" width="260px" src="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-15.gif">
 
 <h3 align="left">Connect with me!</h3>
 
