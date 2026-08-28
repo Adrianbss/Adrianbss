@@ -96,12 +96,13 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Adrianbss&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&exclude_repo=Adrianbss&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
   />
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="180" 
-    src="https://github-readme-stats-ten-phi-79.vercel.app/api/top-langs/?username=Adrianbss&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
-  />
+ <img 
+  align="left" 
+  alt="GitHub Stats" 
+  height="180" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Adrianbss&show_icons=true&locale=pt-br&hide=commits,contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+/>
 </p>
 
 <br clear="all" />
