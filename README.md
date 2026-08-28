@@ -10,7 +10,7 @@ Me chamo Adrian Breno, tenho 19 anos e sou natural de Maceió. Atualmente curso 
 
 <br/>
 
-<img align="right" alt="Luffy Gear 5" width="600px" src="https://i.pinimg.com/originals/50/d1/0c/50d10c62c05b3f17284bf20fe3fd2942.gif">
+<img align="right" alt="Luffy Gear 5" width="420px" src="https://i.pinimg.com/originals/50/d1/0c/50d10c62c05b3f17284bf20fe3fd2942.gif">
 
 <h3 align="left">Entre em contato comigo!</h3>
 
