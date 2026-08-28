@@ -16,7 +16,7 @@
 
 <img align="right" alt="Luffy Gear 5" width="420px" src="https://i.pinimg.com/originals/50/d1/0c/50d10c62c05b3f17284bf20fe3fd2942.gif">
 
-<h3 align="left">Entre em contato comigo!</h3>
+<h3 align="left">Connect With me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)](mailto:adrianbreno23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-breno-3a405a371?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-<h3 align="left">Minha pilha ~</h3>
+<h3 align="left">My Stacks ~</h3>
 
 <img 
     align="left" 
@@ -86,7 +86,7 @@
 <br clear="both"/>
 <br/>
 
-<h3 align="left">Estatísticas do GitHub</h3>
+<h3 align="left">GitHub Stats</h3>
 
 <p align="left">
   <img 
