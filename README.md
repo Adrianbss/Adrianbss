@@ -10,8 +10,8 @@ Me chamo Adrian Breno, tenho 19 anos e sou natural de Maceió. Atualmente curso 
 
 <br/>
 
-<!-- GIF posicionado na direita antes das seções -->
-<img align="right" alt="Kakashi" width="320px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NExiNW56bXdqYWZvaDR4MGlyNWF0Mm1vYnM1eWsxbmlmdXF4MGsycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/124qH428Un95rW/giphy.gif">
+<!-- GIF posicionado na direita englobando as seções da esquerda -->
+<img align="right" alt="Kakashi" width="300px" src="https://i.gifer.com/4S3.gif">
 
 <h3 align="left">Entre em contato comigo!</h3>
 
