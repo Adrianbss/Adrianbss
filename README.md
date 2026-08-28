@@ -8,6 +8,8 @@
 
 <p align="left">
   Me chamo <b>Adrian Breno</b>, tenho 19 anos, sou de Maceió e estudante de Ciências da Computação na UNINASSAU. Apaixonado por tecnologia e lógica de programação, busco sempre aprimorar minhas habilidades, explorar novas ferramentas e transformar ideias em código através de projetos práticos.
+
+  <hr style="border: 0.1px solid #30363d;" />
 </p>
 
 <br/>
