@@ -1,18 +1,19 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=600&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
 <br/>
 
-Me chamo Adrian Breno, tenho 19 anos e sou natural de Maceió. Atualmente curso Ciências da computação na UNINASSAU.
+Me chamo Adrian Breno, tenho 19 anos e sou natural de Maceió. Atualmente curso Ciências da Computação na UNINASSAU.
 
 <br/>
 
-<img align="right" alt="Saitama GIF" width="260px" src="https://aniyuki.com/wp-content/uploads/2022/08/aniyuki-hello-15.gif">
+<!-- GIF posicionado na direita antes das seções -->
+<img align="right" alt="Kakashi" width="320px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NExiNW56bXdqYWZvaDR4MGlyNWF0Mm1vYnM1eWsxbmlmdXF4MGsycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/124qH428Un95rW/giphy.gif">
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Entre em contato comigo!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)](mailto:adrianbreno23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-breno-3a405a371?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
@@ -20,7 +21,7 @@ Me chamo Adrian Breno, tenho 19 anos e sou natural de Maceió. Atualmente curso 
 
 <br/><br/>
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">Minha pilha ~</h3>
 
 <img 
     align="left" 
@@ -82,7 +83,7 @@ Me chamo Adrian Breno, tenho 19 anos e sou natural de Maceió. Atualmente curso 
 <br clear="both"/>
 <br/>
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">Estatísticas do GitHub</h3>
 
 <p align="left">
   <img 
