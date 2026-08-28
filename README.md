@@ -6,7 +6,11 @@
 
 <br/>
 
-Me chamo Adrian Breno, tenho 19 anos e sou natural de Maceió. Atualmente curso Ciências da Computação na UNINASSAU.
+<p align="left">
+  Me chamo <b>Adrian Breno</b>, tenho 19 anos e sou natural de Maceió. Atualmente curso Ciências da Computação na UNINASSAU. Sou apaixonado por tecnologia, lógica de programação e focado em evoluir no desenvolvimento de software.
+</p>
+
+<hr style="border: 0.1px solid #30363d;" />
 
 <br/>
 
